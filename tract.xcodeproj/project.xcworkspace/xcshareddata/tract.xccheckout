@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB25C9D1-40DA-4E44-8919-43A0C4870696</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tract</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>796339D8A08852D49E04C890F12EA9AE42C2AFE6</key>
+		<string>https://github.com/alantliang/tract.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tract.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>796339D8A08852D49E04C890F12EA9AE42C2AFE6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alantliang/tract.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>796339D8A08852D49E04C890F12EA9AE42C2AFE6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>796339D8A08852D49E04C890F12EA9AE42C2AFE6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tract</string>
+		</dict>
+	</array>
+</dict>
+</plist>
